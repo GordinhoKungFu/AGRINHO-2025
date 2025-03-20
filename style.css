@@ -1,0 +1,22 @@
+nav{
+    background-color: aqua;
+    height: 200px;
+    margin-top: -8px;
+    width: 1920px;
+    margin-left: -8px;
+}
+
+.nav-btn{
+    height: 70px;
+    background-color: rgb(45, 177, 177);
+    border-radius: 15px;
+    margin-left: 80px;
+    margin-top: 30px;
+    color: black;
+        cursor: pointer;
+}
+.logo{
+    margin-left: 5px;
+    height: 50px;
+}
+
